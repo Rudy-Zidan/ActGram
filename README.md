@@ -36,3 +36,7 @@ You can always open the ```index.html``` page in the root directory
 
 </script>
 ```
+
+## Basic Demo
+
+![Board and Process dragging demo](https://github.com/Rudy-Zidan/ActGram/blob/master/demo/basic_demo.gif)
