@@ -1,0 +1,21 @@
+{
+  "name": "actgram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-dev": "npx webpack --config webpack.config.js --mode development",
+    "build": "npx webpack --config webpack.config.js --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@svgdotjs/svg.draggable.js": "^3.0.3",
+    "@svgdotjs/svg.js": "^3.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
